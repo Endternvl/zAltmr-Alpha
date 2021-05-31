@@ -1,11 +1,11 @@
 {
-  "token": "ODQyMDM2MjI1NTMwMzk2Njcy.YJvdWA.naghmEZuALHBYOPo1ZAnJzznetQ",
+  "token": "YOUR_BOT_TOKEN",
   "default_prefix": "za",
   "everyoneMention": false,
   "hostedBy": true,
   "botsCanWin": false,
-  "dev": "787842689969684480",
-  "YOUTUBE_API_KEY": "AIzaSyAjsfr4NsbX0CrY2aQsXQFhJ0Jfmg0PwqQ",
-  "clientID": "842036225530396672",
-  "clientSecret": "NUT-zoxhFGC6a3ESPDiTSkkG2sUqeyK9"
+  "dev": "YOUR_ID",
+  "YOUTUBE_API_KEY": "YOUR_API_KEY",
+  "clientID": "BOT_CLIENT_ID",
+  "clientSecret": "BOT_CLIENT_SECRET"
 }
