@@ -1,4 +1,4 @@
-# 🤖 zAltmr
+# [🤖 zAltmr](https://discord.com/oauth2/authorize?client_id=842036225530396672&scope=bot&permissions=8589934591)
 #### A **Multipurposed Discord Bot** Made Using [discord.js](https://discord.js.org/#)
 ![alt text](https://cdn.discordapp.com/attachments/811143476522909718/846350512379265044/zAltmrBanner.png)
 
@@ -12,5 +12,9 @@ Sure, It's Free! You Can Use It. But If You Got Tons Of Errors, Don't Ask Me. Tr
 - First, All You Have To Do Is `npm i`
 - Then, Set Up The `./config.json`
 - To Start, Do `node index.js`
+
+### Fun Facts ℹ
+- zAltmr Is Easy To Use
+- zAltmr Is Open Sourced 
 
 > © Copyright 2021 zAltmr
