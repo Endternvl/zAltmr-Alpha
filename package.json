@@ -14,7 +14,7 @@
     "aki-api": "^5.2.1",
     "ascii-table": "0.0.9",
     "axios": "^0.21.1",
-    "better-sqlite3": "^7.4.1"
+    "better-sqlite3": "^7.4.1",
     "canvacord": "^5.2.0",
     "canvas": "^2.8.0",
     "common-tags": "^1.8.0",
