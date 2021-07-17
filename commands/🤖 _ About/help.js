@@ -48,6 +48,7 @@ module.exports = {
 
       const embed = new MessageEmbed()
         .setTitle(`${client.user.username}'s Commands`)
+        .addField("Team", ProjectRed: "https://saweria.co/ProjectRed")
         .addFields(categories)
         .setDescription(
           `Hello, To Get More Info About The Commands, You Can Execute Help Command With The Command Name, For Example, \`${prefix}help ping\``
