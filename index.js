@@ -146,7 +146,7 @@ client.on("message", async message => {
 //---------DISCORD INVITE LINK BUTTON---------\\
 client.on('clickButton', async (button) => {
   if (button.id === 'inviteyes') {
-    button.defer()
+    button.reply.defer()
     
     const inviteyb = new discord.MessageEmbed()
     .setTitle("Thanks!")
@@ -162,7 +162,7 @@ client.on('clickButton', async (button) => {
 
   }
   if(button.id === 'inviteno'){
-    button.defer()
+    button.reply.defer()
     const noooyb = new discord.MessageEmbed()
     .setTitle('Okay Then')
     .setDescription('But Please Join Our Support Server!')
